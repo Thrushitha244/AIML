@@ -11,3 +11,9 @@ LAB 5 - https://github.com/Thrushitha244/AIML/blob/main/Lab_5_AIML.ipynb
 LAB 6 - https://github.com/Thrushitha244/AIML/blob/main/Lab_6_AIML.ipynb
 
 LAB 7 - https://github.com/Thrushitha244/AIML/blob/main/AIML_LAB_7.ipynb
+
+LAB 8-  https://github.com/Thrushitha244/AIML/blob/main/AIML_LAB_8.ipynb
+
+LAB 9-  https://github.com/Thrushitha244/AIML/blob/main/LAB_9_AIML.ipynb
+
+LAB 10- https://github.com/Thrushitha244/AIML/blob/main/Lab10_Aiml.ipynb
